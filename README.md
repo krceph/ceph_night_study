@@ -6,7 +6,7 @@
 ------------------
 
 1. Ceph Overview
-2. Ceph 설치
-3. Ceph 관리
-  - 0301 OSD/Mon 관리
-  - 0302 MON 추가/삭제
+1. Ceph 설치
+1. Ceph 관리
+  * OSD/Mon 관리
+  * MON 추가/삭제
